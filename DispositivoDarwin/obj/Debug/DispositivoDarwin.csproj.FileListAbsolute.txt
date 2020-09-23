@@ -8,3 +8,14 @@ C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\obj
 C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.exe
 C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.pdb
 C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.Sobre.resources
+C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\bin\Debug\DispositivoDarwin.exe.config
+C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\bin\Debug\DispositivoDarwin.exe
+C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\bin\Debug\DispositivoDarwin.pdb
+C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.csprojResolveAssemblyReference.cache
+C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.Form1.resources
+C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.Properties.Resources.resources
+C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.Sobre.resources
+C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.csproj.GenerateResource.Cache
+C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.csproj.CoreCompileInputs.cache
+C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.exe
+C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.pdb
