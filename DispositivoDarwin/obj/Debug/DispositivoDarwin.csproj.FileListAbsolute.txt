@@ -14,7 +14,6 @@ C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositi
 C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.csprojResolveAssemblyReference.cache
 C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.Form1.resources
 C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.Properties.Resources.resources
-C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.Sobre.resources
 C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.csproj.GenerateResource.Cache
 C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.csproj.CoreCompileInputs.cache
 C:\Users\joaol\Documents\JOAOLUCAS\02 - Documentos_Etec\3º Modulo\DS2\Dispositivo-Darwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.exe

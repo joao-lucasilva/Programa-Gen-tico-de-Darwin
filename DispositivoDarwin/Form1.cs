@@ -97,11 +97,5 @@ namespace DispositivoDarwin
         {
 
         }
-
-        private void sobreToolStripMenuItem_Click_1(object sender, EventArgs e)
-        {
-            Form frm = new Sobre();
-            frm.ShowDialog();
-        }
     }
 }
